@@ -1,0 +1,7 @@
+echo "*.zip" > .gitignore
+echo "*.rar" >> .gitignore
+echo "*.exe" >> .gitignore
+echo "*.mp4" >> .gitignore
+echo "*.avi" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
