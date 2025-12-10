@@ -49,4 +49,10 @@ Drop pieces, strategize, and challenge the bot in this classic two-player grid g
 - **Game File**: `Four_in_a_row.py` — run the game with:
 
 ```bash
-python Four_in_a_row.py
+'python Four_in_a_row.py'
+```
+---
+
+## 🙏 Credits / Acknowledgements
+- Original Connect 4 code by [Keith Galli](https://github.com/KeithGalli)  
+- Modified and improved by **Merry Grace Potot**
